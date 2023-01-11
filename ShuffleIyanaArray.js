@@ -1,4 +1,4 @@
-Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
+// Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
 
 
 var shuffle = function(nums, n) {
